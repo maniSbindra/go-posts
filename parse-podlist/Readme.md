@@ -1,6 +1,6 @@
 # Parse Pod List
 
-This folder has code sample supporting the [textParsing the output of "kubectl get pods -A -o json" from a file](https://medium.com/@maninder.bindra/parsing-the-output-of-kubectl-get-pods-a-o-json-from-a-file-81350fa1d757)
+This folder has code sample supporting the [textParsing the output of "kubectl get pods -A -o json" from a file](https://medium.com/@maninder.bindra/parsing-the-output-of-kubectl-get-pods-a-o-json-from-a-file-81350fa1d757) blog post.
 
 ## Parsing Sample using JQ
 
